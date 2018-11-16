@@ -1,11 +1,11 @@
-﻿Read me first.
+﻿Read me.
 
 Title
 Module 13: Spatio-Temporal Modelling and Analytics
 Classification of Smallholder farming landscape in Africa
 
 Written by -
-Tian Mengge (S6035280)
+Tian Mengge
 
 Purpose:
 In this practice, we want to compare two classifiers: Random Forest(RF) and Support Vector Machine(SVM). 
