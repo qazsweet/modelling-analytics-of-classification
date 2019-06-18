@@ -59,17 +59,17 @@ Please cautiously change the file path, because there are lots of relative paths
 
 Folders
 project:
-│   Fiona-1.7.12-cp36-cp36m-win_amd64.whl
-│   GDAL-2.2.4-cp37-cp37m-win32.whl
-│   GDAL-2.2.4-cp37-cp37m-win_amd64.whl
-│   getPixelValues.py
-│   matplotlib-2.2.2-cp37-cp37m-win32.whl
-│   muitiparaRF.py
-│   muitiparaSVM.py
-│   myFunction.py
-│   numpy-1.15.0rc2+mkl-cp37-cp37m-win32.whl
-│   readme.md
-│   requirement.txt
+│   Fiona-1.7.12-cp36-cp36m-win_amd64.whl  
+│   GDAL-2.2.4-cp37-cp37m-win32.whl  
+│   GDAL-2.2.4-cp37-cp37m-win_amd64.whl  
+│   getPixelValues.py  
+│   matplotlib-2.2.2-cp37-cp37m-win32.whl  
+│   muitiparaRF.py  
+│   muitiparaSVM.py  
+│   myFunction.py  
+│   numpy-1.15.0rc2+mkl-cp37-cp37m-win32.whl  
+│   readme.md  
+│   requirement.txt  
 │   scikit_learn-0.19.2-cp36-cp36m-win32.whl
 │   scikit_learn-0.19.2-cp36-cp36m-win_amd64.whl
 │   scikit_learn-0.19.2-cp37-cp37m-win32 (1).whl
