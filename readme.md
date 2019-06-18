@@ -70,66 +70,66 @@ project:
 │   numpy-1.15.0rc2+mkl-cp37-cp37m-win32.whl  
 │   readme.md  
 │   requirement.txt  
-│   scikit_learn-0.19.2-cp36-cp36m-win32.whl
-│   scikit_learn-0.19.2-cp36-cp36m-win_amd64.whl
-│   scikit_learn-0.19.2-cp37-cp37m-win32 (1).whl
-│   scikit_learn-0.19.2-cp37-cp37m-win32.whl
-│   scikit_learn-0.19.2-cp37-cp37m-win_amd64.whl
-│   scipy-1.1.0-cp37-cp37m-win32.whl
-│   Shapely-1.6.4.post1-cp36-cp36m-win_amd64.whl
-│   Tools.py
-│   utility.py
-│   visualization.py
-│
-└───STARS_Sentinel_Mali
-    │   Crops_RF_Classified_multit.tif
-    │   Crops_RF_Classified_single_1st.tif
-    │   Crops_RF_Classified_single_2nd.tif
-    │   Crops_RF_Classified_single_3rd.tif
-    │   Crops_SVM_Classified_multit.tif
-    │   Crops_SVM_Classified_single_1st.tif
-    │   Crops_SVM_Classified_single_2nd.tif
-    │   Crops_SVM_Classified_single_3rd.tif
-    │   remask.aux
-    │   remask.rrd
-    │   remask.tif
-    │   shpSample.tif
-    │   Train_Test.tif
-    │
-    ├───images
-    │       054112895010_20.tif
-    │       054112895030_20.tif
-    │       054330675010_20.tif
-    │
-    ├───polygon
-    │       1st_onerowAcc.jpg
-    │       CropsKML_file.kml
-    │       CropsSHP_file.dbf
-    │       CropsSHP_file.prj
-    │       CropsSHP_file.qpj
-    │       CropsSHP_file.shp
-    │       CropsSHP_file.shx
-    │       mergeSHP_file.cpg
-    │       mergeSHP_file.dbf
-    │       mergeSHP_file.prj
-    │       mergeSHP_file.sbn
-    │       mergeSHP_file.sbx
-    │       mergeSHP_file.shp
-    │       mergeSHP_file.shp.xml
-    │       mergeSHP_file.shx
-    │       NonCropsSHP_file.cpg
-    │       NonCropsSHP_file.dbf
-    │       NonCropsSHP_file.fix
-    │       NonCropsSHP_file.prj
-    │       NonCropsSHP_file.shp
-    │       NonCropsSHP_file.shx
-    │       _onerowAcc.jpg
-    │       _rowAcc.jpg
-    │
-    └───testpolygons
-            1st_colAcc.jpg
-            1st_rowAcc.jpg
-            _colAcc.jpg
-            _onerowAcc.jpg
-            _rowAcc.jpg
+│   scikit_learn-0.19.2-cp36-cp36m-win32.whl  
+│   scikit_learn-0.19.2-cp36-cp36m-win_amd64.whl  
+│   scikit_learn-0.19.2-cp37-cp37m-win32 (1).whl  
+│   scikit_learn-0.19.2-cp37-cp37m-win32.whl  
+│   scikit_learn-0.19.2-cp37-cp37m-win_amd64.whl  
+│   scipy-1.1.0-cp37-cp37m-win32.whl  
+│   Shapely-1.6.4.post1-cp36-cp36m-win_amd64.whl  
+│   Tools.py  
+│   utility.py  
+│   visualization.py  
+│  
+└───STARS_Sentinel_Mali  
+    │   Crops_RF_Classified_multit.tif  
+    │   Crops_RF_Classified_single_1st.tif  
+    │   Crops_RF_Classified_single_2nd.tif  
+    │   Crops_RF_Classified_single_3rd.tif  
+    │   Crops_SVM_Classified_multit.tif  
+    │   Crops_SVM_Classified_single_1st.tif  
+    │   Crops_SVM_Classified_single_2nd.tif  
+    │   Crops_SVM_Classified_single_3rd.tif  
+    │   remask.aux  
+    │   remask.rrd  
+    │   remask.tif  
+    │   shpSample.tif  
+    │   Train_Test.tif  
+    │  
+    ├───images  
+    │       054112895010_20.tif  
+    │       054112895030_20.tif  
+    │       054330675010_20.tif  
+    │  
+    ├───polygon  
+    │       1st_onerowAcc.jpg  
+    │       CropsKML_file.kml  
+    │       CropsSHP_file.dbf  
+    │       CropsSHP_file.prj  
+    │       CropsSHP_file.qpj  
+    │       CropsSHP_file.shp  
+    │       CropsSHP_file.shx  
+    │       mergeSHP_file.cpg  
+    │       mergeSHP_file.dbf  
+    │       mergeSHP_file.prj  
+    │       mergeSHP_file.sbn  
+    │       mergeSHP_file.sbx  
+    │       mergeSHP_file.shp  
+    │       mergeSHP_file.shp.xml  
+    │       mergeSHP_file.shx  
+    │       NonCropsSHP_file.cpg  
+    │       NonCropsSHP_file.dbf  
+    │       NonCropsSHP_file.fix  
+    │       NonCropsSHP_file.prj  
+    │       NonCropsSHP_file.shp  
+    │       NonCropsSHP_file.shx  
+    │       _onerowAcc.jpg  
+    │       _rowAcc.jpg  
+    │  
+    └───testpolygons  
+            1st_colAcc.jpg  
+            1st_rowAcc.jpg  
+            _colAcc.jpg  
+            _onerowAcc.jpg  
+            _rowAcc.jpg  
 
