@@ -72,7 +72,6 @@ project:
 │   requirement.txt  
 │   scikit_learn-0.19.2-cp36-cp36m-win32.whl  
 │   scikit_learn-0.19.2-cp36-cp36m-win_amd64.whl  
-│   scikit_learn-0.19.2-cp37-cp37m-win32 (1).whl  
 │   scikit_learn-0.19.2-cp37-cp37m-win32.whl  
 │   scikit_learn-0.19.2-cp37-cp37m-win_amd64.whl  
 │   scipy-1.1.0-cp37-cp37m-win32.whl  
