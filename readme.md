@@ -1,4 +1,4 @@
-﻿Read me.
+﻿Read me first.
 
 Title
 Module 13: Spatio-Temporal Modelling and Analytics
@@ -56,6 +56,7 @@ itertools
 Notice:
 Please cautiously change the file path, because there are lots of relative paths used in those codes. Politely remind you that default files path is as follow:
 
+'''
 Folders
 project:
 │   Fiona-1.7.12-cp36-cp36m-win_amd64.whl
@@ -131,3 +132,4 @@ project:
             _colAcc.jpg
             _onerowAcc.jpg
             _rowAcc.jpg
+'''
